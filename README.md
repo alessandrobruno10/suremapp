@@ -1,4 +1,5 @@
-# suremapp
+#suremapp #dataset #mammograms #manually-annotated #mammography
+
 Publicly Available SuReMaPP (Suspicious Regions on Mammograms from Palermo Polyclinic) 
 
 The SuReMaPP dataset consists of 343 mammograms hand-labeled by expert radiologists dealing with the identification of suspicious regions such as abnormalities (benignant and malignant) and calcifications. 

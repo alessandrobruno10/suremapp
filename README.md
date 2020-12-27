@@ -3,8 +3,8 @@
 Publicly Available SuReMaPP (Suspicious Regions on Mammograms from Palermo Polyclinic) 
 
 The SuReMaPP dataset consists of 343 mammograms hand-labeled by expert radiologists dealing with the identification of suspicious regions such as abnormalities (benignant and malignant) and calcifications. 
-SuReMa contains mammograms with high spatial resolutions depending on the mammography device used (in order, GIOTTO IMAGE SDL/W generates images with spatial resolution of 3584 x 2816 pixels, FUJIFILM FCR PROFECT CS generates images with spatial resolution of 5928 x 4728). 
-We want to share SuReMa hand-labeled dataset with the scientific community to be used as "Gold Standard" for biomedical imaging methods and algorithms. We used SuReMa to validate and assess the performance of our method "An Integrated Solution for detecting suspicious regions in Mammogram Images". 
+SuReMaPP contains mammograms with high spatial resolutions depending on the mammography device used (in order, GIOTTO IMAGE SDL/W generates images with spatial resolution of 3584 x 2816 pixels, FUJIFILM FCR PROFECT CS generates images with spatial resolution of 5928 x 4728). 
+We want to share SuReMaPP hand-labeled dataset with the scientific community to be used as "Gold Standard" for biomedical imaging methods and algorithms. We used SuReMaPP to validate and assess the performance of our method "An Integrated Solution for detecting suspicious regions in Mammogram Images". 
 You are free to use the database in your scientific research but you must abide by the license agreement when using the images
 The case studies in question are anonymised.
 
